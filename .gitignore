@@ -2,7 +2,6 @@
 *.vdi
 *.keyring
 fetch/*
-vagrant_variables.yml
 group_vars/all
 group_vars/mons
 group_vars/osds
